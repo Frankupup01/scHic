@@ -1,0 +1,498 @@
+{
+    "draw": "1",
+    "columns": [
+        {
+            "data": "chr1_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        }
+    ],
+    "order": [
+        {
+            "column": "0",
+            "dir": "asc"
+        }
+    ],
+    "start": "0",
+    "length": "10",
+    "search": {
+        "value": "",
+        "regex": "false"
+    },
+    "chr1": "chr2",
+    "range1Min": "3000000",
+    "range1Max": "181748087",
+    "chr2": "chr3",
+    "range2Min": "55000000",
+    "range2Max": "97000000"
+}
+--- NEW REQUEST ---
+{
+    "draw": "1",
+    "columns": [
+        {
+            "data": "chr1_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        }
+    ],
+    "order": [
+        {
+            "column": "0",
+            "dir": "asc"
+        }
+    ],
+    "start": "0",
+    "length": "10",
+    "search": {
+        "value": "",
+        "regex": "false"
+    },
+    "chr1": "2",
+    "range1Min": "3000000",
+    "range1Max": "181748087",
+    "chr2": "7",
+    "range2Min": "12000000",
+    "range2Max": "118000000"
+}
+Total: 0, Retrieved: 0
+--- NEW REQUEST ---
+{
+    "draw": "1",
+    "columns": [
+        {
+            "data": "chr1_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        }
+    ],
+    "order": [
+        {
+            "column": "0",
+            "dir": "asc"
+        }
+    ],
+    "start": "0",
+    "length": "10",
+    "search": {
+        "value": "",
+        "regex": "false"
+    },
+    "chr1": "chr3",
+    "range1Min": "3000000",
+    "range1Max": "159599783",
+    "chr2": "chr5",
+    "range2Min": "24000000",
+    "range2Max": "136000000"
+}
+Total: 0, Retrieved: 0
+--- NEW REQUEST ---
+{
+    "draw": "1",
+    "columns": [
+        {
+            "data": "chr1_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr1_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_sites",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_strand",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_gene_name",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_promoter_region",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        },
+        {
+            "data": "chr2_enhancer_count",
+            "name": "",
+            "searchable": "true",
+            "orderable": "false",
+            "search": {
+                "value": "",
+                "regex": "false"
+            }
+        }
+    ],
+    "order": [
+        {
+            "column": "0",
+            "dir": "asc"
+        }
+    ],
+    "start": "0",
+    "length": "10",
+    "search": {
+        "value": "",
+        "regex": "false"
+    },
+    "chr1": "chr8",
+    "range1Min": "3000000",
+    "range1Max": "131738871",
+    "chr2": "chr12",
+    "range2Min": "56000000",
+    "range2Max": "115000000"
+}
+Total: 0, Retrieved: 0
